@@ -3,10 +3,6 @@
 
 Sky Peeker is a weather app that uses Flask in its backend.
 
-## Demo
-
-https://skypeeker.pythonanywhere.com/
-
 ## Run Locally
 
 Clone the project
